@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=real-value&color=a4cef4&style=plastic&label=freeze+victims" />
+</div>
+<div align="center">
+  ㅤㅤ
+</div>
+<div align="center"> 
+  <img src="https://i.imgur.com/o6ZZBeh.png" />
+</div>
+<div align="center"> 
+  <img src="https://static.wikia.nocookie.net/monsterhunter/images/5/5e/MHRS-Velkhana_Icon.png/revision/latest?cb=20230208164157" />
+</div>
+<div align="center">
+  ㅤㅤ
+</div>
+<div align="center">
 
-<!--
-**vlkhana/vlkhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[rentry](https://rentry.co/monsterhunterwiids) 
+₊ [ata](https://pinksm.atabook.org/)
+₊ [prns.cc](https://pronouns.cc/@nargacuga)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
